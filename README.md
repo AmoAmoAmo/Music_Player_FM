@@ -2,4 +2,4 @@
 A simple project for learning
 
 ## 效果图如下
-![](http://img.my.csdn.net/uploads/201711/16/1510804156_9658.gif)
+![](https://github.com/AmoAmoAmo/Music_Player_FM/blob/master/Music_Player2.gif)
